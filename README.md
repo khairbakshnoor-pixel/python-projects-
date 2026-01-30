@@ -114,6 +114,6 @@ This repository is maintained for learning, practice, and showcasing my progress
 
 ## 👤 Author
 
-**khair bakhsh**
+**KHAIR BAKHSH**
 BSCS Student | Python Learner
 

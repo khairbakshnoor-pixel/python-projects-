@@ -90,7 +90,7 @@ A to-do list application that allows users to add, remove, and view daily tasks.
 1. Make sure Python is installed on your system.
 2. Clone this repository:
 
-   ```bash
+   ``bash
    git clone https://github.com/khairbakshnoor-pixel/python-projects-.git
    ```
 3. Navigate to the project folder:
@@ -110,7 +110,7 @@ A to-do list application that allows users to add, remove, and view daily tasks.
 
 This repository is maintained for learning, practice, and showcasing my progress in Python programming.
 
----
+-----
 
 ## 👤 Author
 

@@ -1,0 +1,1 @@
+SALE: ['Chicken x3 = Rs 1500', 'Tea x2 = Rs 100'] TOTAL: Rs 1600

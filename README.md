@@ -20,6 +20,14 @@ A console-based ATM simulation that allows users to check balance, withdraw mone
 
 A calculator implemented using separate functions for each operation (addition, subtraction, multiplication, division). This project emphasizes modular programming and code reusability.
 
+
+📧 Smart Email Validator (Python Project)
+
+A Python-based Email Checker that validates email addresses using standard formatting rules.
+It ensures correct structure, domain format, and required symbols.
+Useful for form validation, data cleaning, and input verification.
+Designed as a simple, efficient, and beginner-friendly project.
+
 ### 🧮 calculator.py
 
 A simple calculator application built using conditional logic. It helps in understanding decision-making structures and handling user choices.
